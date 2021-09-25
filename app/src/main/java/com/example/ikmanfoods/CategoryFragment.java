@@ -22,6 +22,7 @@ public class CategoryFragment extends Fragment {
     private String mParam1;
     private String mParam2;
     private String mParam3;
+    private String mParam4;
 
     public CategoryFragment() {
         // Required empty public constructor
