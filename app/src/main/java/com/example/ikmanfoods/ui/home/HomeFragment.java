@@ -79,6 +79,7 @@ public class HomeFragment extends Fragment {
             switch(i){
                 case 0:fragment  = new CategoryFragment(); break;
                 case 1:fragment =  new SelectListFragment(); break;
+                case 2:fragment =  new AddCartFragment(); break;
             }
             return fragment;
         }
