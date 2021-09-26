@@ -21,7 +21,12 @@ public class CategoryFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-    
+
+
+
+
+
+
 
     public CategoryFragment() {
         // Required empty public constructor
