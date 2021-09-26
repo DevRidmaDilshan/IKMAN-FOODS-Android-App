@@ -1,0 +1,27 @@
+resources>
+
+
+<string name="app name">Food Delivery app</string>
+<string name="Orders">Orders</string>
+<string name="select">select</string>
+<string name="back">back</string>
+<string name="Order Details">Order Details</string>
+<string name="txt_Name">Name</string>
+<string name="txt_address">address</string>
+<string name="txt_Date">date</string>
+<string name="txt_Time">time</string>
+<string name="btn_edit">edit</string>
+<string name="btn_delete">delete</string>
+<string name="food items"></string> <string name="food items">My Offer</string>
+<string name="btnback">back</string>
+<string name="btnnext">next</string>
+<string name="select">Edit Profile</string> <string name="select">Request Product</string>
+<string name="Contact Us">contact Us </string>
+<string name="name">name</string>
+<string name="btn_mail">mail</string> <string name="btnmail">Submit</string>
+    </resources>
+<resources>
+<color name= blueBackgrouns">#0000FF</color>
+<color name="blue">#FF000000</color> <color name="white">#FFFFFFFF</color>
+</resources>
+
